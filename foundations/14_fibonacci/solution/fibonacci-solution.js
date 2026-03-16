@@ -11,6 +11,8 @@ const fibonacci = function(countArg) {
     if (count < 0) return "OOPS";
     if (count == 0) return 0;
 
+
+
     let firstPrev = 1;
     let secondPrev = 0;
 
